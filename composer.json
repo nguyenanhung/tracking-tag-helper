@@ -27,7 +27,8 @@
             "nguyenanhung\\Libraries\\TrackingTag\\": "src/"
         },
         "files": [
-            "helpers/helpers.php"
+            "helpers/helpers.php",
+            "helpers/vietnam-gov-femc.php"
         ]
     }
 }
