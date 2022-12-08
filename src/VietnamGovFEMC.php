@@ -10,7 +10,7 @@
 
 namespace nguyenanhung\Libraries\TrackingTag;
 
-class VietnamGovFEMC
+class VietnamGovFEMC extends BaseCore
 {
     public static function code($siteId = '')
     {
