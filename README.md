@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/tracking-tag-helper/v)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper) [![Total Downloads](http://poser.pugx.org/nguyenanhung/tracking-tag-helper/downloads)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/tracking-tag-helper/v/unstable)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper) [![License](http://poser.pugx.org/nguyenanhung/tracking-tag-helper/license)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/tracking-tag-helper/require/php)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/tracking-tag-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/tracking-tag-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/tracking-tag-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/tracking-tag-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/tracking-tag-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/tracking-tag-helper/php)](https://packagist.org/packages/nguyenanhung/tracking-tag-helper)
 
 # Tracking Tag Helper
 
